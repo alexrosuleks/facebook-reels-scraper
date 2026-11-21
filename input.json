@@ -1,0 +1,14 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.facebook.com/9GAGCute"
+    }
+  ],
+  "resultsLimit": 10,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
